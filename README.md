@@ -27,4 +27,4 @@ This is the initial static skeleton of the Timeline App project, which includes:
 
 ---
 
-This project serves as a foundation for building a timeline visualization app with theme preference support.
+This project serves as a foundation for building a timeline visualization app with theme preference support .
